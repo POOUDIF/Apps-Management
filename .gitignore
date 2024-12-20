@@ -1,0 +1,16 @@
+env
+.env
+__pycache__
+migrations
+media
+static
+temp
+
+*env.py
+*.env
+*.pyc
+.vscode
+*.code-workspace
+
+# Must Include these files
+!**/migrations/__init__.py

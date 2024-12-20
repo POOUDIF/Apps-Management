@@ -1,0 +1,26 @@
+env
+.env
+__pycache__
+migrations
+media
+static
+dist
+*-info
+
+*.env
+*env.py
+*.pyc
+.vscode
+*.code-workspace
+*-local.yml
+package-*.bat
+package-*.sh
+test.py
+pypipackages
+*.egg-info
+*-local.*
+
+# exclude list
+!*.template
+!**/migrations/__init__.py
+!migrations/__init__.py

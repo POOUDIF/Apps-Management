@@ -1,0 +1,3 @@
+[submodule "library"]
+	path = library
+	url = git@gitlab.com:bbi-development/bbicorelib.git
